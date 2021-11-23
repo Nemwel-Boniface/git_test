@@ -1,0 +1,2 @@
+Hello, just started learning Git from the Odin project! 
+Loving the experience!
